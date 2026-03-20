@@ -1,0 +1,27 @@
+/**
+ * @name babun
+ * @author Request
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/26336-rikardo-milos.html
+ * @authorLink https://vsthemes.org/user/Request/
+ * @authorId 2
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.05;
+    --messagetransparency: 0.55;
+    --guildchanneltransparency: 0.3;
+    --memberlistransparency: 0;
+    --accentcolor: 71,171,238;
+    --background: url("https://raw.githubusercontent.com/elbabun/test/main/babuncan.png");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
